@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 This project analyzes student performance using Python, Pandas, and Matplotlib. It explores the impact of parental education, test preparation, and gender on academic achievement and identifies students who may require additional academic support.
 
+📂 Dataset
+Dataset: Students Performance in Exams
+Records: 1,000 students
+Features: Gender, race/ethnicity, parental education, lunch type, test preparation course, math score, reading score, and writing score.
+
 ## 🛠️ Tools Used
 - Python
 - Pandas
@@ -64,6 +69,13 @@ This analysis evaluates student performance using demographic information and ex
 ## 💡 Most Impactful Recommendation
 
 Expanding access to test preparation programs is the most impactful recommendation. The analysis shows that students who completed the preparation course consistently achieved higher scores across mathematics, reading, and writing. Making such programs available to more students can improve academic performance and reduce the number of at-risk learners.
+
+📌 Results Summary
+✅ No missing values or duplicate records were found.
+✅ Test preparation had a positive impact on student performance.
+✅ Reading and writing scores showed a strong positive correlation.
+✅ Male students performed better in mathematics, while female students excelled in reading and writing.
+✅ 188 students were identified as at risk and may require additional academic support.
 
 ## 📓 Notebook
 
