@@ -20,11 +20,18 @@ This project analyzes student performance using Python, Pandas, and Matplotlib. 
 
 ## 📈 Visualizations Included
 - Box Plot: Math Scores by Parental Education
+- <img width="592" height="533" alt="image" src="https://github.com/user-attachments/assets/6d92f716-6f5a-48c2-9043-bc8ad337c71b" />
 - Bar Chart: Average Total Score by Test Preparation
+- <img width="540" height="530" alt="image" src="https://github.com/user-attachments/assets/3181e1ea-42c8-4549-a892-4556404f1520" />
 - Correlation Heatmap
+- <img width="588" height="438" alt="image" src="https://github.com/user-attachments/assets/26e668c1-55fb-483a-8127-874994be9089" />
 - Grouped Bar Chart: Average Scores by Gender
+- <img width="686" height="504" alt="image" src="https://github.com/user-attachments/assets/c9de2f33-8d34-4ac8-80fa-7d470f51f230" />
 - Histogram: Distribution of Total Scores
+- <img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/2d73aef7-e0dd-419e-b55c-fa06e40327f9" />
 - Scatter Plot: Reading Score vs Math Score
+- <img width="618" height="470" alt="image" src="https://github.com/user-attachments/assets/567a1428-f9b5-4ac5-aa0d-9cde87649b1c" />
+
 
 ## 🚨 At-Risk Student Segmentation
 
