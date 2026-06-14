@@ -87,3 +87,7 @@ The complete analysis is available in the file:
 ## 👤 Author
 
 **Krishna Sampath Gudla**
+krishnasampathgudla31@gmail.com
+8074702045
+
+Data Analytics Internship Project – Pluto Project 02
