@@ -62,7 +62,7 @@ Expanding access to test preparation programs is the most impactful recommendati
 
 The complete analysis is available in the file:
 
-`Student_Performance_Analysis.ipynb`
+`studentperformanceanalysis.ipynb`
 
 
 ## 👤 Author
